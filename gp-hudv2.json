@@ -1,0 +1,9 @@
+{
+    "version": "2.0.0",
+    "changelogs" : [
+        "Initial Release",
+        "Code Cleanup",
+        "2nd HUD Release coming soon!"
+    ],
+    "link" : "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp-hudv2"
+}
