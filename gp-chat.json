@@ -1,0 +1,7 @@
+{
+    "version": "1.0.3",
+    "changelogs" : [
+        "Initial Release"
+    ],
+    "link" : "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc&search=gp+chat"
+}
